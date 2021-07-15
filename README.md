@@ -1,4 +1,1 @@
-# Marshall
-le code de compilateur est dans le mainwindow.cpp
-l'excutable de compilateur avec l'interface graphique est dans le dossier executable
-le rapport de compilateur contient la grammaire de projet
+[readme.txt](https://github.com/badismarshall/Marshall/files/6824418/readme.txt)
